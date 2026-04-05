@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+.obsidian/
+
+# Misc
+.DS_Store
+*.log
